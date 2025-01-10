@@ -31,6 +31,5 @@ Feel free to use and adapt this template for your own portfolio!
 ## Preview
 
 Add a live link or screenshot if available.
-```bash  https://rabby-hasan-saref.netlify.app/
-```
+Live Link: [Personal Portfolio](https://rabby-hasan-saref.netlify.app/)
 ![Portfolio Preview](img/rabby-hasan-saref-netlify-app.png)
