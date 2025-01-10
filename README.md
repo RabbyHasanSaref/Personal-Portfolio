@@ -16,7 +16,7 @@ Feel free to use and adapt this template for your own portfolio!
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/Personal-Portfolio.git
+   git clone https://github.com/RabbyHasanSaref/Personal-Portfolio.git
    ```
 2. Update content in the HTML and PHP files to reflect your personal information.
 3. Deploy it on your preferred hosting platform.
@@ -32,3 +32,4 @@ Feel free to use and adapt this template for your own portfolio!
 
 Add a live link or screenshot if available.
 ```https://rabby-hasan-saref.netlify.app/```
+![Portfolio Preview](img/rabby-hasan-saref-netlify-app.png)
